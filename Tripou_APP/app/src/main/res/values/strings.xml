@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Tripou</string>
+
+    <string name="title_activity_lugar">Lugar</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="title_activity_cadastro_usuario">CadastroUsuarioActivity</string>
+    <string-array name="tempovisitacao">
+        <item>Tempo de Visitação (Minutos)</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>240</item>
+        <item>300</item>
+        <item>360</item>
+        <item>420</item>
+        <item>480</item>
+    </string-array>
+    <string-array name="avaliacao">
+        <item>Avaliação</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
